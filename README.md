@@ -98,5 +98,5 @@ Klient                                   Serwer SoftEther
 ---
 
 <div align="center">
-<sub>Zbudowane w kiklaset godzin dla użytkowników Polski-VPN.pl</sub>
+<sub>Zbudowane dla użytkowników Polski-VPN.pl</sub>
 </div>
