@@ -10,6 +10,12 @@
 ![minSdk](https://img.shields.io/badge/minSdk-24-orange)
 ![Version](https://img.shields.io/badge/version-1.2.0-success)
 
+<a href="https://play.google.com/store/apps/details?id=com.polski_vpn.pl">
+  <img alt="Pobierz z Google Play"
+       src="https://play.google.com/intl/pl/badges/static/images/badges/pl_badge_web_generic.png"
+       height="64">
+</a>
+
 </div>
 
 ---
