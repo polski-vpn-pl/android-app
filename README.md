@@ -22,7 +22,7 @@
 
 ## ✨ W skrócie
 
-**Polski VPN** to aplikacja kliencka VPN, działająca na telefonach z Androidem oraz na Android TV. Łączy się z serwerami usługi <a href="https://polski-vpn.pl/">*Polski-VPN.pl*</a> przy użyciu jednego z dwóch protokołów: **OpenVPN**, **SoftEther VPN** (TCP over HTTPS/TLS) albo **SSTP** (PPP over TLS). Interfejs jest stworzony w języku polskim, minimalistyczny — wybierz serwer, wpisz dane dostępowe które otrzymałeś po zakupie usługi i połącz się.
+**Polski VPN** to aplikacja kliencka VPN, działająca na telefonach z Androidem oraz na Android TV. Łączy się z serwerami usługi <a href="https://polski-vpn.pl/">*Polski-VPN.pl*</a> przy użyciu jednego z trzech protokołów: **OpenVPN**, **SoftEther VPN** (TCP over HTTPS/TLS) lub **SSTP** (PPP over TLS). Interfejs jest stworzony w języku polskim, minimalistyczny - wybierz serwer, wpisz dane dostępowe które otrzymałeś po zakupie usługi i połącz się.
 
 ---
 
