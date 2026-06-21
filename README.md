@@ -8,7 +8,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-3.44-02569B?logo=flutter&logoColor=white)
 ![Protocols](https://img.shields.io/badge/VPN-OpenVPN%20%2B%20SoftEther%20%2B%20SSTP-blue)
 ![minSdk](https://img.shields.io/badge/minSdk-24-orange)
-![Version](https://img.shields.io/badge/version-1.3.0-success)
+![Version](https://img.shields.io/badge/version-1.4.0-success)
 
 <a href="https://play.google.com/store/apps/details?id=com.polski_vpn.pl">
   <img alt="Pobierz z Google Play"
