@@ -5,9 +5,7 @@
 **Prosty, szybki klient VPN dla Androida i Android TV — z obsługą protokołów: OpenVPN, SoftEther i SSTP.**
 
 ![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Android%20TV-3DDC84?logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-3.44-02569B?logo=flutter&logoColor=white)
 ![Protocols](https://img.shields.io/badge/VPN-OpenVPN%20%2B%20SoftEther%20%2B%20SSTP-blue)
-![minSdk](https://img.shields.io/badge/minSdk-24-orange)
 ![Version](https://img.shields.io/badge/version-2.1.1-success)
 
 <a href="https://play.google.com/store/apps/details?id=com.polski_vpn.pl">
