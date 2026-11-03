@@ -6,7 +6,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-Android%20%7C%20Android%20TV-3DDC84?logo=android&logoColor=white)
 ![Protocols](https://img.shields.io/badge/VPN-OpenVPN%20%2B%20SoftEther%20%2B%20SSTP-blue)
-![Version](https://img.shields.io/badge/version-2.1.1-success)
+![Version](https://img.shields.io/badge/version-2.5.0-success)
 
 <a href="https://play.google.com/store/apps/details?id=com.polski_vpn.pl">
   <img alt="Pobierz z Google Play"
